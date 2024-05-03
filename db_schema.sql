@@ -1,7 +1,7 @@
 /*
 Trip ( TripNumber, StartLocationName, DestinationName)
 
-TripOffering ( TripNumber, Date, ScheduledStartTime, SecheduledArrivalTime,                                                                                                      DriverName, BusID)
+TripOffering ( TripNumber, Date, ScheduledStartTime, SecheduledArrivalTime, DriverName, BusID)
 
 Bus ( BusID, Model,Year)
 
